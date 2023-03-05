@@ -1,13 +1,13 @@
 # Superstore-Sales-Performance-Dashboard
 
-# About the Project:
+## About the Project:
 - Created a dashboard that analyses the sales performance of a fictional online retailer.
 
-# About the Dataset:
+## About the Dataset:
 - The datset is provided by Tableau Community. 
 - Here is the link you can find the dataset: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
-# Tasks:
+## Tasks:
 1. Sales Overview: Create a section on the dashboard that provides an overview of the retailer's sales performance. Include metrics such as total revenue, number of orders, and average order value.
 2. Sales by Category: Create a section on the dashboard that shows sales performance by product category. Use a bar chart to display sales by category and highlight the top-performing categories.
 3. Sales by Geography: Create a section on the dashboard that shows sales performance by geography. Use a map to display sales by state or country and highlight the top-performing regions.
